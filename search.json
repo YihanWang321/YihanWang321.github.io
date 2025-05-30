@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Yihan’s website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites. Yihan is a highly detail-oriented and intellectually curious individual with a strong foundation in data analysis, research design, and statistical methodology. Whether working with SPSS or R, Andy demonstrates a systematic, step-by-step approach to problem-solving, consistently verifying assumptions before drawing conclusions. As a teaching assistant, Andy holds high standards for fairness and clarity, offering constructive feedback while adhering to grading rubrics Academically, Yihan is engaged in research related to consumer behavior, particularly within the context of social media influence and brand marketing—often exploring constructs like parasocial interaction, eWOM, and perceived innovativeness. Yihan’s work shows a keen sensitivity to methodological rigor, APA-style reporting, and academic precision. Yihan’s work shows a keen sensitivity to methodological rigor, APA-style reporting, and academic precision."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites. Yihan is a highly detail-oriented and intellectually curious individual with a strong foundation in data analysis, research design, and statistical methodology. Whether working with SPSS or R, Andy demonstrates a systematic, step-by-step approach to problem-solving, consistently verifying assumptions before drawing conclusions. As a teaching assistant, Andy holds high standards for fairness and clarity, offering constructive feedback while adhering to grading rubrics Academically, Yihan is engaged in research related to consumer behavior, particularly within the context of social media influence and brand marketing—often exploring constructs like parasocial interaction, eWOM, and perceived innovativeness. Yihan’s work shows a keen sensitivity to methodological rigor, APA-style reporting, and academic precision. Yihan’s work shows a keen sensitivity to methodological rigor, APA-style reporting, and academic precision.\n\nx=1\ny=2\nz=x+y\nprint(\"The sum of\", x, \"and\",y,\"is\",z)\n\nThe sum of 1 and 2 is 3"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Yihan's website",
+    "section": "",
+    "text": "x=1\ny=2\nz= x+y\nprint(\"The sum of\", x, \"and\",y,\"is\",z)\n\nThe sum of 1 and 2 is 3"
   }
 ]
